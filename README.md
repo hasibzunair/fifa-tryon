@@ -4,7 +4,7 @@ This is official code for our BMVC 2022 paper:<br>
 [Fill in Fabrics: Body-Aware Self-Supervised Inpainting for Image-Based Virtual Try-On](https://arxiv.org/abs/2210.00918)
 <br>
 
-![attention](https://github.com/hasibzunair/fifa-tryon/blob/master/media/pipeline.png)
+![attention](https://github.com/hasibzunair/fifa-tryon/blob/main/media/pipeline.png)
 
 ## 1. Specification of dependencies
 
