@@ -62,7 +62,8 @@ SSIM and FID scores computed using [pytorch-ssim](https://github.com/Po-Hsun-Su/
 Pre-trained models are available in [GitHub Releases](https://github.com/hasibzunair/fifa-tryon/releases/tag/v1.0-models).
 
 ## 4. Demo
-TODO
+
+A hugging face spaces and colab demo is available [here](https://github.com/hasibzunair/fifa-demo).
 
 ## 5. Citation
 ```bibtex
