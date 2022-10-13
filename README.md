@@ -48,7 +48,7 @@ Then, VTON pipeline is trained using
 python train.py --name fifa
 ```
 
-A Colab training notebook is available with a subset of the dataset, see [notebook](https://github.com/dktunited/fifa_train/blob/main/train_src/notebooks/train_colab.ipynb).
+A Colab training notebook is available with a subset of the dataset, see [notebook](https://github.com/hasibzunair/fifa-tryon/blob/main/train_src/notebooks/train_colab.ipynb).
 
 After training, see `checkpoints` folder for the model weights.
 
