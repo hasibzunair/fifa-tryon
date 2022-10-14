@@ -1,3 +1,21 @@
+# Custom
+.DS_Store
+
+datasets/
+checkpoints/
+runs/
+outputs
+samples/
+sample/
+outputs/
+
+Self-Correction-Human-Parsing-for-ACGPN/
+U-2-Net/
+
+
+*.caffemodel
+*.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
