@@ -50,7 +50,9 @@ python train.py --name fifa
 
 A Colab training notebook is available with a subset of the dataset, see [notebook](https://github.com/hasibzunair/fifa-tryon/blob/main/train_src/notebooks/train_colab.ipynb).
 
-After training, see `checkpoints` folder for the model weights.
+After training, see `checkpoints` folder for the model weights. 
+
+All experiments are conducted on a single NVIDIA 3080Ti GPU. For additional implementation details and results, please refer to the supplementary material [here](https://github.com/hasibzunair/fifa-tryon/blob/main/media/supplementary_materials.pdf).
 
 ## 2b. Evaluation code
 To evaluate the performance of FIFA on the VITON test set, run `test.ipynb` inside the folder `test_src/notebooks` which shows visualizations as well as SSIM and FID scores.
