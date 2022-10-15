@@ -67,12 +67,11 @@ A hugging face spaces and colab demo is available [here](https://github.com/hasi
 
 ## 5. Citation
 ```bibtex
-@article{zunair2022fill,
+@inproceedings{zunair2022fill,
   title={Fill in Fabrics: Body-Aware Self-Supervised Inpainting for Image-Based Virtual Try-On},
   author={Zunair, Hasib and Gobeil, Yan and Mercier, Samuel and Hamza, A Ben},
-  journal={arXiv preprint arXiv:2210.00918},
+  journal={Proc. British Machine Vision Conference},
   year={2022}
-}
 ```
 
 ## Future works
