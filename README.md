@@ -65,7 +65,7 @@ Pre-trained models are available in [GitHub Releases](https://github.com/hasibzu
 
 ## 4. Demo
 
-A hugging face spaces and colab demo is available [here](https://github.com/hasibzunair/fifa-demo).
+A hugging face spaces and colab demo is available is this repository [here](https://github.com/hasibzunair/fifa-demo).
 
 ## 5. Citation
 ```bibtex
