@@ -36,7 +36,7 @@ datasets/
         try_on_testing/
 ```
 
-VITON dataset is presented in VITON, containing 19,000 image pairs, each of which includes a front-view woman image and a top clothing image. After removing the invalid image pairs, it yields 16,253 pairs, further splitting into a training set of 14,221 paris and a testing set of 2,032 pairs.
+VITON dataset is presented in VITON, containing 19,000 image pairs, each of which includes a front-view woman image and a top clothing image. After removing the invalid image pairs, it yields 16,253 pairs, further splitting into a training set of 14,221 pairs and a testing set of 2,032 pairs.
 
 Now, from your terminal, run the following to train FIFA in two stages. First, the Fabricator is trained using:
 ```python
@@ -65,7 +65,7 @@ Pre-trained models are available in [GitHub Releases](https://github.com/hasibzu
 
 ## 4. Demo
 
-A hugging face spaces and colab demo is available is this repository [here](https://github.com/hasibzunair/fifa-demo).
+A hugging face spaces and colab demo is available in this repository [here](https://github.com/hasibzunair/fifa-demo).
 
 ## 5. Citation
 ```bibtex
@@ -77,7 +77,7 @@ A hugging face spaces and colab demo is available is this repository [here](http
 ```
 
 ## Future works
-* [VITON-HD](https://github.com/shadow2496/VITON-HD) dataset was recently released and use by [HR-VITON](https://github.com/sangyun884/HR-VITON). One direction is to build Decathlon VTON dataset in the format of VITON-HD.
+* [VITON-HD](https://github.com/shadow2496/VITON-HD) dataset was recently released and used by [HR-VITON](https://github.com/sangyun884/HR-VITON). One direction is to build Decathlon VTON dataset in the format of VITON-HD.
 * Our approach uses human parsing (e.g. semantic segmentation) during inference only, a very recent method [Flow-Style-VTON](https://github.com/SenHe/Flow-Style-VTON) eliminates this step for faster inference.
 * A possible approach to improve the method is to train the model with person images without background.
 
